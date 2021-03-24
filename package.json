@@ -5,6 +5,7 @@
   "author": "Denis Bardadym <bardadymchik@gmail.com>",
   "license": "MIT",
   "bin": "./bin/cli.js",
+  "types": "./types/index.d.ts",
   "files": [
     "bin/*",
     "lib/*",
