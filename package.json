@@ -9,7 +9,8 @@
   "files": [
     "bin/*",
     "lib/*",
-    "plugin/*"
+    "plugin/*",
+    "types/*"
   ],
   "repository": {
     "type": "git",
